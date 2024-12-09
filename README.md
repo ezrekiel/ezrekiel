@@ -1,16 +1,17 @@
-<h1 align="center">Salut à vous 👋</h1>
+<h1 align="center">Salut 👋, moi c'est Axel</h1>
+<h3 align="center">Etudiant développeur Web et Applicatif | Architecte Systèmes d’Information</h3>
 
 ---
 
-### 👨‍💻 **À propos de moi**
+### ✨ **Présentation**
 
-- 🎓 **Étudiant en Master of science (MSC) Pro à Epitech**  
-- 🚀 Passionné par le développement d’applications web et bureaux  
-- 🏆 Rigoureux, curieux, et adepte du travail en équipe  
+Je m'appelle **Axel THEULE**, passionné par le développement web et. Actuellement étudiant en **Master of Science (MSC) Pro à Epitech**, 
+
+Je me forme sur tous les aspects du développement web mais aussi sur la mise en place de serveurs, que ce soit le front-end ou le back-end, avec l’objectif de maîtriser des technologies modernes et d'appliquer ces compétences dans des projets concrets.
 
 ---
 
-### 🔧 **Mes Technos**
+### 🔧 **Compétences Techniques**
 
 #### Langages de Programmation
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
@@ -37,12 +38,14 @@
 
 ---
 
-### 🚀 **Projets Personnels**
+### 🚀 **Mes Projets**
 
 | **Projet**         | **Description**                                                                 | **Technologies**                    |
 |--------------------|---------------------------------------------------------------------------------|-------------------------------------|
 | **Jeu Tower Defense** | Jeu en Java avec interface graphique en JavaFX                               | Java, JavaFX                        |
 | **Job Board**         | Application web similaire à LinkedIn                                        | JavaScript, NodeJS, ExpressJS, MariaDB |
+
+---
 
 ### 📈 **Statistiques GitHub**
 

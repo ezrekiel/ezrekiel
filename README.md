@@ -10,7 +10,7 @@
 
 ---
 
-### 🔧 **Compétences Techniques**
+### 🔧 **Mes Technos**
 
 #### Langages de Programmation
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)

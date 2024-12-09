@@ -4,7 +4,7 @@
 
 ### 👨‍💻 **À propos de moi**
 
-- 🎓 **Étudiant en MSC Pro à Epitech**  
+- 🎓 **Étudiant en Master of science (MSC) Pro à Epitech**  
 - 🚀 Passionné par le développement d’applications web et bureaux  
 - 🏆 Rigoureux, curieux, et adepte du travail en équipe  
 

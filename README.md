@@ -1,13 +1,11 @@
-<h1 align="center">Salut 👋, je suis Axel THEULE</h1>
-<h3 align="center">Développeur Full Stack passionné et Architecte Systèmes d’Information</h3>
+<h1 align="center">Salut à vous 👋</h1>
 
 ---
 
 ### 👨‍💻 **À propos de moi**
 
 - 🎓 **Étudiant en MSC Pro à Epitech**  
-- 📚 En recherche d'une alternance développeur Full Stack (1 à 3 ans) à partir de **Janvier 2025**  
-- 🚀 Passionné par le développement d’applications web et les systèmes d’information  
+- 🚀 Passionné par le développement d’applications web et bureaux  
 - 🏆 Rigoureux, curieux, et adepte du travail en équipe  
 
 ---
@@ -39,17 +37,12 @@
 
 ---
 
-### 🚀 **Mes Projets**
+### 🚀 **Projets Personnels**
 
-| **Projet**       | **Description**                                                                 | **Technologies**                    |
-|------------------|---------------------------------------------------------------------------------|-------------------------------------|
+| **Projet**         | **Description**                                                                 | **Technologies**                    |
+|--------------------|---------------------------------------------------------------------------------|-------------------------------------|
 | **Jeu Tower Defense** | Jeu en Java avec interface graphique en JavaFX                               | Java, JavaFX                        |
-| **Job Board**        | Application web similaire à LinkedIn                                        | JavaScript, NodeJS, ExpressJS, MariaDB |
-| **Goodpack**         | Site e-commerce avec gestion ERP                                            | PHP, Prestashop, Ubuntu Server      |
-| **EcaGroup**         | Refonte du système de connexion interne des employés                        | PHP, HTML, CSS, JavaScript          |
-| **PackSolutions**    | Application interne de gestion RH                                           | JavaScript, NodeJS, HTML, CSS       |
-
----
+| **Job Board**         | Application web similaire à LinkedIn                                        | JavaScript, NodeJS, ExpressJS, MariaDB |
 
 ### 📈 **Statistiques GitHub**
 
@@ -60,19 +53,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezrekiel&theme=radical" alt="GitHub Streak"/>
 </p>
-
----
-
-### 📫 **Me Contacter**
-
-- **Email** : [axel.theule@epitech.eu](mailto:axel.theule@epitech.eu)   
-- **Téléphone** : 06 41 20 36 69  
-
----
-
-🕹️ *Amateur de sports (hiver, glisse, basket, musculation) et de jeux vidéos !*
-
----
-
-⭐️ N'hésitez pas à visiter mes projets et à laisser une étoile si vous aimez mon travail !
-

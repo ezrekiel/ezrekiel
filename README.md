@@ -1,13 +1,11 @@
 <h1 align="center">Salut 👋, moi c'est Axel</h1>
-<h3 align="center">Etudiant développeur Web et Applicatif | Architecte Systèmes d’Information</h3>
+<h3 align="center">Étudiant Développeur Web et Applicatif | Architecte Systèmes d’Information</h3>
 
 ---
 
 ### ✨ **Présentation**
 
-Je m'appelle **Axel THEULE**, passionné par le développement web et. Actuellement étudiant en **Master of Science (MSC) Pro à Epitech**, 
-
-Je me forme sur tous les aspects du développement web mais aussi sur la mise en place de serveurs, que ce soit le front-end ou le back-end, avec l’objectif de maîtriser des technologies modernes et d'appliquer ces compétences dans des projets concrets.
+Je m'appelle **Axel THEULE**, passionné par le développement web et applicatif. Actuellement étudiant en **Master of Science (MSC) Pro à Epitech**, je me forme sur tous les aspects du développement web mais aussi sur la mise en place de serveurs, que ce soit le front-end ou le back-end, avec l’objectif de maîtriser des technologies modernes et d'appliquer ces compétences dans des projets concrets.
 
 ---
 
@@ -35,6 +33,8 @@ Je me forme sur tous les aspects du développement web mais aussi sur la mise en
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white)
+![Sockets](https://img.shields.io/badge/Sockets-0078D4?style=flat&logo=socket.io&logoColor=white)
 
 ---
 

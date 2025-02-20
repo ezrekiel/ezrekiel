@@ -43,6 +43,7 @@ Je m'appelle **Axel THEULE**, passionné par le développement web et applicatif
 | **Projet**         | **Description**                                                                 | **Technologies**                    |
 |--------------------|---------------------------------------------------------------------------------|-------------------------------------|
 | **Jeu Tower Defense** | Jeu en Java avec interface graphique en JavaFX                               | Java, JavaFX                        |
+| **Jeu Cookie Clicker** | Jeu en Flutter encore en cours de développement                             | Dart, Flutter                       |
 | **Job Board**         | Application web similaire à LinkedIn                                        | JavaScript, NodeJS, ExpressJS, MariaDB |
 
 ---
